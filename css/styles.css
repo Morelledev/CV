@@ -1,0 +1,100 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Source Code Pro', monospace;
+}
+
+h1 {
+  font-size: 6rem;
+  margin-top: 50px;
+  font-family: 'Dancing Script', cursive;
+}
+
+h2{
+  font-size: 2.5rem;
+text-emphasis: 10px;
+
+}
+
+.top-container {
+  background-color: #eeeeee;
+  position: relative;
+  padding-top: 100px;
+}
+
+.topcloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottomcloud {
+  width: 300px;
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+
+
+.middle-container {
+  background-color: #dedede;
+}
+
+.morelle {
+  border-radius: 50% 50% 50% 50%;;
+}
+
+.bugfound {
+  height: 100px;
+  border-radius: 50% 50% 50% 50%;;
+}
+
+.computer {
+  height: 100px;
+  border-radius: 50% 50% 50% 50%;;
+}
+
+.css {
+  height: 100px;
+  border-radius: 50% 50% 50% 50%;;
+}
+
+.programmer {
+  height: 100px;
+  border-radius: 50% 50% 50% 50%;;
+}
+.nodejs {
+  height: 100px;
+  border-radius: 70% 60% 70% 60%;;
+}
+
+.html5 {
+  height: 100px;
+  border-radius: 50% 50% 50% 50%;;
+}
+
+.javascript {
+  height: 100px;
+  border-radius: 50% 50% 50% 50%;;
+}
+
+.mongodb {
+  height: 100px;
+  border-radius: 50% 50% 50% 50%;;
+}
+
+
+.bootstrap {
+  height: 100px;
+  border-radius: 50% 50% 50% 50%;;
+}
+.test {
+  height: 100px;
+  border-radius: 50% 50% 50% 50%;;
+}
+.Bottom {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+}
